@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TASK7 MART BILL", "TASK7 MART BILL\TASK7 MART BILL.csproj", "{24536F60-EA02-4FE2-B105-7D994CF63113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24536F60-EA02-4FE2-B105-7D994CF63113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24536F60-EA02-4FE2-B105-7D994CF63113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24536F60-EA02-4FE2-B105-7D994CF63113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24536F60-EA02-4FE2-B105-7D994CF63113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {189DF67E-433D-4181-A3A6-0273D0F2D548}
+	EndGlobalSection
+EndGlobal
